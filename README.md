@@ -1,10 +1,6 @@
 # skribbl.io-Guesser
-Guesses skribbl.io.
+Guesses skribbl.io. Write clue like: t__st (toast)
 
-Download at releases.
+Code not added yet, but its java
 
-Written in java.
-
-Code soon to be added.
-
-Compiled for win only.
+Download with start for win mac linux
