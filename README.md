@@ -1,5 +1,10 @@
 # skribbl.io-Guesser
 Guesses skribbl.io.
+
 Download at releases.
+
 Written in java.
-Code soon to be added
+
+Code soon to be added.
+
+Compiled for win only.
